@@ -1,1 +1,1 @@
-# Homework-3
+# Çift ve Tek Sayıları Bulan Program
