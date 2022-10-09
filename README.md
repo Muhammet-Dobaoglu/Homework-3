@@ -1,1 +1,2 @@
-# Çift ve Tek Sayıları Bulan Program
+# C# Homework-3
+ Çift ve Tek Sayıyı Bulan Program
